@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MProject\\MessManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86AD242D-4796-46D1-ACDA-E54B148C8A48}|MessManagementSystem.Application\\MessManagementSystem.Application.csproj|d:\\mproject\\messmanagementsystem\\messmanagementsystem.application\\messmanagementsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86AD242D-4796-46D1-ACDA-E54B148C8A48}|MessManagementSystem.Application\\MessManagementSystem.Application.csproj|solutionrelative:messmanagementsystem.application\\messmanagementsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0C0879-24F9-4E37-AE66-DD03E64FA683}|MessManagementSystem.Infrastructure\\MessManagementSystem.Infrastructure.csproj|d:\\mproject\\messmanagementsystem\\messmanagementsystem.infrastructure\\messmanagementsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D0C0879-24F9-4E37-AE66-DD03E64FA683}|MessManagementSystem.Infrastructure\\MessManagementSystem.Infrastructure.csproj|solutionrelative:messmanagementsystem.infrastructure\\messmanagementsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3967AF-A36A-404A-99A8-EC3C27E0000B}|MessManagementSystem.API\\MessManagementSystem.API.csproj|d:\\mproject\\messmanagementsystem\\messmanagementsystem.api\\messmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D3967AF-A36A-404A-99A8-EC3C27E0000B}|MessManagementSystem.API\\MessManagementSystem.API.csproj|solutionrelative:messmanagementsystem.api\\messmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0C0879-24F9-4E37-AE66-DD03E64FA683}|MessManagementSystem.Infrastructure\\MessManagementSystem.Infrastructure.csproj|d:\\mproject\\messmanagementsystem\\messmanagementsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0C0879-24F9-4E37-AE66-DD03E64FA683}|MessManagementSystem.Infrastructure\\MessManagementSystem.Infrastructure.csproj|solutionrelative:messmanagementsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AD242D-4796-46D1-ACDA-E54B148C8A48}|MessManagementSystem.Application\\MessManagementSystem.Application.csproj|d:\\mproject\\messmanagementsystem\\messmanagementsystem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AD242D-4796-46D1-ACDA-E54B148C8A48}|MessManagementSystem.Application\\MessManagementSystem.Application.csproj|solutionrelative:messmanagementsystem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62788F25-0470-4303-9BF4-41330317673D}|MessManagementSystem.Domain\\MessManagementSystem.Domain.csproj|d:\\mproject\\messmanagementsystem\\messmanagementsystem.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62788F25-0470-4303-9BF4-41330317673D}|MessManagementSystem.Domain\\MessManagementSystem.Domain.csproj|solutionrelative:messmanagementsystem.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessManagementSystem.Application",
+              "DocumentMoniker": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Application\\MessManagementSystem.Application.csproj",
+              "RelativeDocumentMoniker": "MessManagementSystem.Application\\MessManagementSystem.Application.csproj",
+              "ToolTip": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Application\\MessManagementSystem.Application.csproj",
+              "RelativeToolTip": "MessManagementSystem.Application\\MessManagementSystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-15T08:44:14.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessManagementSystem.Infrastructure",
+              "DocumentMoniker": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Infrastructure\\MessManagementSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MessManagementSystem.Infrastructure\\MessManagementSystem.Infrastructure.csproj",
+              "ToolTip": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Infrastructure\\MessManagementSystem.Infrastructure.csproj",
+              "RelativeToolTip": "MessManagementSystem.Infrastructure\\MessManagementSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-15T08:41:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessManagementSystem.API",
+              "DocumentMoniker": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.API\\MessManagementSystem.API.csproj",
+              "RelativeDocumentMoniker": "MessManagementSystem.API\\MessManagementSystem.API.csproj",
+              "ToolTip": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.API\\MessManagementSystem.API.csproj",
+              "RelativeToolTip": "MessManagementSystem.API\\MessManagementSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-15T08:37:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "MessManagementSystem.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "MessManagementSystem.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:37:16.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "MessManagementSystem.Application\\Class1.cs",
+              "ToolTip": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Application\\Class1.cs",
+              "RelativeToolTip": "MessManagementSystem.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:36:42.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "MessManagementSystem.Domain\\Class1.cs",
+              "ToolTip": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Domain\\Class1.cs",
+              "RelativeToolTip": "MessManagementSystem.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:36:07.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

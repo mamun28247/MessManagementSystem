@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "3A1FdeMFwko=",
+  "success": true,
+  "projectFilePath": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Application\\MessManagementSystem.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shakil\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
+    "C:\\Users\\Shakil\\.nuget\\packages\\fluentvalidation\\8.0.0\\fluentvalidation.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Application\\MessManagementSystem.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\MProject\\MessManagementSystem\\MessManagementSystem.Application\\MessManagementSystem.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
